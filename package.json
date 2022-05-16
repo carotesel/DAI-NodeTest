@@ -1,0 +1,16 @@
+{
+  "name": "dai-tp-4",
+  "version": "1.0.0",
+  "description": "tp para aprender node",
+  "main": "index01.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index02.js"
+  },
+  "author": "Carolina Teselman y Maximo Farinola",
+  "license": "ISC",
+  "dependencies": {
+    "iso-country-currency": "^0.6.0"
+  }
+}
